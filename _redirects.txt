@@ -1,1 +1,0 @@
-/api/proxy-to-github/* https://raw.githubusercontent.com/BSData/wh40k-10e/main/:splat 200
